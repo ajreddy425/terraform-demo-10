@@ -3,3 +3,4 @@ aws = {
   source  = "hashicorp/aws"
   version = "4.8.0"
 }
+}
